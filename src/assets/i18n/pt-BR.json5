@@ -338,25 +338,25 @@
   "admin.registries.schema.title": "Registro de Esquema de Metadados",
 
   // "admin.access-control.epeople.actions.delete": "Delete EPerson",
-  "admin.access-control.epeople.actions.delete": "Apagar EPerson",
+  "admin.access-control.epeople.actions.delete": "Apagar Pessoa",
 
   // "admin.access-control.epeople.actions.impersonate": "Impersonate EPerson",
-  "admin.access-control.epeople.actions.impersonate": "Assumir o papel do EPerson",
+  "admin.access-control.epeople.actions.impersonate": "Assumir o papel da Pessoa",
 
   // "admin.access-control.epeople.actions.reset": "Reset password",
   "admin.access-control.epeople.actions.reset": "Redefinir senha",
 
   // "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
-  "admin.access-control.epeople.actions.stop-impersonating": "Parar de assumir o papel do EPerson",
+  "admin.access-control.epeople.actions.stop-impersonating": "Parar de assumir o papel da Pessoa",
 
   // "admin.access-control.epeople.breadcrumbs": "EPeople",
-  "admin.access-control.epeople.breadcrumbs": "EPeople",
+  "admin.access-control.epeople.breadcrumbs": "Pessoa",
 
   // "admin.access-control.epeople.title": "EPeople",
-  "admin.access-control.epeople.title": "EPeople",
+  "admin.access-control.epeople.title": "Pessoa",
 
   // "admin.access-control.epeople.head": "EPeople",
-  "admin.access-control.epeople.head": "EPeople",
+  "admin.access-control.epeople.head": "Pessoa",
 
   // "admin.access-control.epeople.search.head": "Search",
   "admin.access-control.epeople.search.head": "Procurar",
@@ -378,7 +378,7 @@
   "admin.access-control.epeople.search.placeholder": "Procurar pessoas...",
 
   // "admin.access-control.epeople.button.add": "Add EPerson",
-  "admin.access-control.epeople.button.add": "Adicionar EPerson",
+  "admin.access-control.epeople.button.add": "Adicionar Pessoa",
 
   // "admin.access-control.epeople.table.id": "ID",
   "admin.access-control.epeople.table.id": "ID",
@@ -402,13 +402,13 @@
   "admin.access-control.epeople.table.edit.buttons.remove": "Apagar \"{{name}}\"",
 
   // "admin.access-control.epeople.no-items": "No EPeople to show.",
-  "admin.access-control.epeople.no-items": "Nenhuma EPeople para mostrar.",
+  "admin.access-control.epeople.no-items": "Nenhuma Pessoa para mostrar.",
 
   // "admin.access-control.epeople.form.create": "Create EPerson",
-  "admin.access-control.epeople.form.create": "Criar EPerson",
+  "admin.access-control.epeople.form.create": "Criar Pessoa",
 
   // "admin.access-control.epeople.form.edit": "Edit EPerson",
-  "admin.access-control.epeople.form.edit": "Editar EPerson",
+  "admin.access-control.epeople.form.edit": "Editar Pessoa",
 
   // "admin.access-control.epeople.form.firstName": "First name",
   "admin.access-control.epeople.form.firstName": "Primeiro nome",
@@ -433,28 +433,28 @@
   "admin.access-control.epeople.form.return": "Voltar",
 
   // "admin.access-control.epeople.form.notification.created.success": "Successfully created EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.created.success": "EPerson \"{{name}}\" criada com sucesso",
+  "admin.access-control.epeople.form.notification.created.success": "Pessoa \"{{name}}\" criada com sucesso",
 
   // "admin.access-control.epeople.form.notification.created.failure": "Failed to create EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.created.failure": "Falha ao criar EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.created.failure": "Falha ao criar Pessoa \"{{name}}\"",
 
   // "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Failed to create EPerson \"{{name}}\", email \"{{email}}\" already in use.",
-  "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Falha ao criar EPerson \"{{name}}\", email \"{{email}}\" já em uso.",
+  "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Falha ao criar Pessoa \"{{name}}\", email \"{{email}}\" já em uso.",
 
   // "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Failed to edit EPerson \"{{name}}\", email \"{{email}}\" already in use.",
-  "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Failha ao editar EPerson \"{{name}}\", email \"{{email}}\" já em uso.",
+  "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Failha ao editar Pessoa \"{{name}}\", email \"{{email}}\" já em uso.",
 
   // "admin.access-control.epeople.form.notification.edited.success": "Successfully edited EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.edited.success": "EPerson \"{{name}}\" editada com sucesso.",
+  "admin.access-control.epeople.form.notification.edited.success": "Pessoa \"{{name}}\" editada com sucesso.",
 
   // "admin.access-control.epeople.form.notification.edited.failure": "Failed to edit EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.edited.failure": "Falha ao editar EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.edited.failure": "Falha ao editar Pessoa \"{{name}}\"",
 
   // "admin.access-control.epeople.form.notification.deleted.success": "Successfully deleted EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.deleted.success": "EPerson \"{{name}}\" apagado com sucesso",
+  "admin.access-control.epeople.form.notification.deleted.success": "Pessoa \"{{name}}\" apagado com sucesso",
 
   // "admin.access-control.epeople.form.notification.deleted.failure": "Failed to delete EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.deleted.failure": "Falha ao apagar EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.deleted.failure": "Falha ao apagar Pessoa \"{{name}}\"",
 
 
   // "admin.access-control.epeople.form.groupsEPersonIsMemberOf": "Member of these groups:",
@@ -470,16 +470,16 @@
   "admin.access-control.epeople.form.table.collectionOrCommunity": "Coleção/Comunidade",
 
   // "admin.access-control.epeople.form.memberOfNoGroups": "This EPerson is not a member of any groups",
-  "admin.access-control.epeople.form.memberOfNoGroups": "Esta EPerson não é mebro de nenhum grupo",
+  "admin.access-control.epeople.form.memberOfNoGroups": "Esta Pessoa não é membro de nenhum grupo",
 
   // "admin.access-control.epeople.form.goToGroups": "Add to groups",
   "admin.access-control.epeople.form.goToGroups": "Adicionar aos grupos",
 
   // "admin.access-control.epeople.notification.deleted.failure": "Failed to delete EPerson: \"{{name}}\"",
-  "admin.access-control.epeople.notification.deleted.failure": "Falha ao apagar EPerson: \"{{name}}\"",
+  "admin.access-control.epeople.notification.deleted.failure": "Falha ao apagar Pessoa: \"{{name}}\"",
 
   // "admin.access-control.epeople.notification.deleted.success": "Successfully deleted EPerson: \"{{name}}\"",
-  "admin.access-control.epeople.notification.deleted.success": "EPerson: \"{{name}}\" apagado com sucesso",
+  "admin.access-control.epeople.notification.deleted.success": "Pessoa: \"{{name}}\" apagado com sucesso",
 
   // "admin.access-control.groups.title": "Groups",
   "admin.access-control.groups.title": "Grupos",
@@ -614,10 +614,10 @@
   "admin.access-control.groups.form.notification.deleted.failure.content": "Causa: \"{{ cause }}\"",
 
   // "admin.access-control.groups.form.members-list.head": "EPeople",
-  "admin.access-control.groups.form.members-list.head": "EPeople",
+  "admin.access-control.groups.form.members-list.head": "Pessoa",
 
   // "admin.access-control.groups.form.members-list.search.head": "Add EPeople",
-  "admin.access-control.groups.form.members-list.search.head": "Adicionar EPeople",
+  "admin.access-control.groups.form.members-list.search.head": "Adicionar Pessoa",
 
   // "admin.access-control.groups.form.members-list.button.see-all": "Browse All",
   "admin.access-control.groups.form.members-list.button.see-all": "Procurar Todos",
@@ -677,7 +677,7 @@
   "admin.access-control.groups.form.members-list.no-members-yet": "Nenhum membro no grupo ainda, procurar e adicionar.",
 
   // "admin.access-control.groups.form.members-list.no-items": "No EPeople found in that search",
-  "admin.access-control.groups.form.members-list.no-items": "Nenhuma EPeople encontrada nesta pesquisa",
+  "admin.access-control.groups.form.members-list.no-items": "Nenhuma Pessoa encontrada nesta pesquisa",
 
   // "admin.access-control.groups.form.subgroups-list.notification.failure": "Something went wrong: \"{{cause}}\"",
   "admin.access-control.groups.form.subgroups-list.notification.failure": "Alguma coisa deu errado: \"{{cause}}\"",
@@ -1955,10 +1955,10 @@
   "confirmation-modal.export-metadata.confirm": "Exportar",
 
   // "confirmation-modal.delete-eperson.header": "Delete EPerson \"{{ dsoName }}\"",
-  "confirmation-modal.delete-eperson.header": "Apagar EPerson \"{{ dsoName }}\"",
+  "confirmation-modal.delete-eperson.header": "Apagar Pessoa \"{{ dsoName }}\"",
 
   // "confirmation-modal.delete-eperson.info": "Are you sure you want to delete EPerson \"{{ dsoName }}\"",
-  "confirmation-modal.delete-eperson.info": "Você tem certeza que quer apagar EPerson \"{{ dsoName }}\"",
+  "confirmation-modal.delete-eperson.info": "Você tem certeza que quer apagar Pessoa \"{{ dsoName }}\"",
 
   // "confirmation-modal.delete-eperson.cancel": "Cancel",
   "confirmation-modal.delete-eperson.cancel": "Cancelar",
@@ -3645,7 +3645,7 @@
   "menu.section.browse_community_by_title": "Por Título",
 
   // "menu.section.browse_global": "All of DSpace",
-  "menu.section.browse_global": "Tudo no DSpace",
+  "menu.section.browse_global": "Tudo no Repositório",
 
   // "menu.section.browse_global_by_author": "By Author",
   "menu.section.browse_global_by_author": "Por Autor",
@@ -3838,7 +3838,7 @@
   "metadata-export-search.submit.error": "Falha ao iniciar a exportação",
 
   // "mydspace.breadcrumbs": "MyDSpace",
-  "mydspace.breadcrumbs": "MeuDSpace",
+  "mydspace.breadcrumbs": "Meu Espaço",
 
   // "mydspace.description": "",
   "mydspace.description": "",
@@ -3967,7 +3967,7 @@
   "mydspace.view-btn": "Ver",
 
   // "nav.browse.header": "All of DSpace",
-  "nav.browse.header": "Tudo no DSpace",
+  "nav.browse.header": "Tudo no Repositório",
 
   // "nav.community-browse.header": "By Community",
   "nav.community-browse.header": "Por Comunidade",
@@ -3985,7 +3985,7 @@
   "nav.main.description": "Barra de navegação principal",
 
   // "nav.mydspace": "MyDSpace",
-  "nav.mydspace": "MeuDSpace",
+  "nav.mydspace": "Meu Espaço",
 
   // "nav.profile": "Profile",
   "nav.profile": "Perfil",
@@ -3997,7 +3997,7 @@
   "nav.statistics.header": "Estatísticas",
 
   // "nav.stop-impersonating": "Stop impersonating EPerson",
-  "nav.stop-impersonating": "Deixar de assumir o papel do EPerson",
+  "nav.stop-impersonating": "Deixar de assumir o papel da Pessoa",
 
   // "nav.toggle" : "Toggle navigation",
   "nav.toggle" : "Alternar navegação",
@@ -4604,10 +4604,10 @@
   "repository.image.logo": "Logo do Repositório",
 
   // "repository.title.prefix": "DSpace Angular :: ",
-  "repository.title.prefix": "DSpace Angular :: ",
+  "repository.title.prefix": "Repositório Digital  ",
 
   // "repository.title.prefixDSpace": "DSpace Angular ::",
-  "repository.title.prefixDSpace": "DSpace Angular ::",
+  "repository.title.prefixDSpace": "Repositório Digital",
 
   // "resource-policies.add.button": "Add",
   "resource-policies.add.button": "Adicionar",
@@ -4661,10 +4661,10 @@
   "resource-policies.edit.page.failure.content": "Ocorreu um erro ao editar a política de recursos.",
 
   // "resource-policies.edit.page.target-failure.content": "An error occurred while editing the target (ePerson or group) of the resource policy.",
-  "resource-policies.edit.page.target-failure.content": "Ocorreu um erro ao editar o destino (ePerson ou grupo) da política de recursos.",
+  "resource-policies.edit.page.target-failure.content": "Ocorreu um erro ao editar o destino (Pessoa ou grupo) da política de recursos.",
 
   // "resource-policies.edit.page.other-failure.content": "An error occurred while editing the resource policy. The target (ePerson or group) has been successfully updated.",
-  "resource-policies.edit.page.other-failure.content": "Ocorreu um erro ao editar a política de recursos. O destino (ePerson ou grupo) foi atualizado com sucesso.",
+  "resource-policies.edit.page.other-failure.content": "Ocorreu um erro ao editar a política de recursos. O destino (Pessoa ou grupo) foi atualizado com sucesso.",
 
   // "resource-policies.edit.page.success.content": "Operation successful",
   "resource-policies.edit.page.success.content": "Operação com sucesso",
@@ -4679,13 +4679,13 @@
   "resource-policies.form.action-type.required": "Você deve selecionar a ação de política de recursos.",
 
   // "resource-policies.form.eperson-group-list.label": "The eperson or group that will be granted the permission",
-  "resource-policies.form.eperson-group-list.label": "A eperson ou grupo que receberá a permissão",
+  "resource-policies.form.eperson-group-list.label": "A pessoa ou grupo que receberá a permissão",
 
   // "resource-policies.form.eperson-group-list.select.btn": "Select",
   "resource-policies.form.eperson-group-list.select.btn": "Selecione",
 
   // "resource-policies.form.eperson-group-list.tab.eperson": "Search for a ePerson",
-  "resource-policies.form.eperson-group-list.tab.eperson": "Procurar por uma ePerson",
+  "resource-policies.form.eperson-group-list.tab.eperson": "Procurar por uma Pessoa",
 
   // "resource-policies.form.eperson-group-list.tab.group": "Search for a group",
   "resource-policies.form.eperson-group-list.tab.group": "Procurar por um grupo",
@@ -4703,10 +4703,10 @@
   "resource-policies.form.eperson-group-list.modal.header": "Não posso alterar o tipo",
 
   // "resource-policies.form.eperson-group-list.modal.text1.toGroup": "It is not possible to replace an ePerson with a group.",
-  "resource-policies.form.eperson-group-list.modal.text1.toGroup": "Não é possível substituir uma ePerson por um grupo.",
+  "resource-policies.form.eperson-group-list.modal.text1.toGroup": "Não é possível substituir uma Pessoa por um grupo.",
 
   // "resource-policies.form.eperson-group-list.modal.text1.toEPerson": "It is not possible to replace a group with an ePerson.",
-  "resource-policies.form.eperson-group-list.modal.text1.toEPerson": "Não é possível substituir um grupo por uma ePerson.",
+  "resource-policies.form.eperson-group-list.modal.text1.toEPerson": "Não é possível substituir um grupo por uma Pessoa.",
 
   // "resource-policies.form.eperson-group-list.modal.text2": "Delete the current resource policy and create a new one with the desired type.",
   "resource-policies.form.eperson-group-list.modal.text2": "Exclua a política de recursos atual e crie uma nova com o tipo desejado.",
@@ -4751,7 +4751,7 @@
   "resource-policies.table.headers.edit.policy": "Editar política",
 
   // "resource-policies.table.headers.eperson": "EPerson",
-  "resource-policies.table.headers.eperson": "EPerson",
+  "resource-policies.table.headers.eperson": "Pessoa",
 
   // "resource-policies.table.headers.group": "Group",
   "resource-policies.table.headers.group": "Grupo",
@@ -6075,7 +6075,7 @@
 
   // "submission.sections.accesses.form.until-placeholder": "Until",
   "submission.sections.accesses.form.until-placeholder": "Até",
-  
+
   // "submission.sections.license.granted-label": "Confirmo a licença acima",
   "submission.sections.license.granted-label": "I confirm the license above",
 
@@ -6778,7 +6778,7 @@
 
   // "person.orcid.registry.auth": "ORCID Autorizações",
   "person.orcid.registry.auth": "ORCID Autorizações",
-  
+
   // "home.recent-submissions.head": "Recent Submissions",
   "home.recent-submissions.head": "Submissões Recentes",
 
